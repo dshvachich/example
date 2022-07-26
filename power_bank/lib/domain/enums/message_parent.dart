@@ -1,0 +1,1 @@
+enum MessageParent { sender, receiver }

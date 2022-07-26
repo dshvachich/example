@@ -1,0 +1,18 @@
+enum ElementType {
+  body,
+  hats,
+  nose,
+  stubble,
+  hairstyle,
+  hairstyleBack,
+  shape,
+  mustache,
+  ears,
+  eyes,
+  glasses,
+  lips,
+  clothes,
+  brows,
+  lashes,
+  beard,
+}

@@ -1,0 +1,4 @@
+enum ShadowType {
+  dark,
+  light,
+}

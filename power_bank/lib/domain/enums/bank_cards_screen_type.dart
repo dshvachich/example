@@ -1,0 +1,4 @@
+enum BankCardsScreenType {
+  view,
+  selectToPay,
+}

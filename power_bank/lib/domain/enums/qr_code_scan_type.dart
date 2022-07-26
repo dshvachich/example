@@ -1,0 +1,4 @@
+enum QrCodeScanType {
+  rentPowerBank,
+  returnPowerBank,
+}

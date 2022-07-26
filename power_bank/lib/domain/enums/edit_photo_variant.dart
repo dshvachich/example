@@ -1,0 +1,4 @@
+enum EditPhotoVariant {
+  editCapturedPhoto,
+  editSelectedPhoto,
+}

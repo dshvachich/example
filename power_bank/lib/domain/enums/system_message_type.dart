@@ -1,0 +1,1 @@
+enum SystemMessageType { youHaveMatch, offerToRevealPhoto }
